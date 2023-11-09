@@ -107,6 +107,7 @@ ul li a:hover {
   background: #000000;
   border: 1.5px solid var(--text-color-a);
 
+  background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
